@@ -12,7 +12,7 @@ function About (){
                 <img
                   className="is-rounded"
                   src="/media/andrewgreer.jpeg"
-                  alt="profile-pic"
+                  alt="profile"
                 />
                 </ObserverWrapper>
               </figure>
