@@ -11,7 +11,7 @@ function About (){
                 <ObserverWrapper>
                 <img
                   className="is-rounded"
-                  src="/media/andrewgreer.jpeg"
+                  src="./media/andrewgreer.jpeg"
                   alt="profile"
                 />
                 </ObserverWrapper>
@@ -33,16 +33,16 @@ function About (){
             <div id="aboutMe" className="is-three-quarters about-me">
               <h4 className="title is-3">A little bit about me:</h4>
               <p className="content is-medium">
-                Hi! My name is Andrew Greer, and I am a student for fullstack
-                Web Development. I am a fullstack Web Developer, specializing in
+                Hi! My name is Andrew Greer, and I am a fullstack
+                Web Developver. I am a fullstack Web Developer, specializing in
                 the MERN stack.
               </p>
               <p className="content is-medium">
-                I became interested in the software engineering after my past
+                I became interested in the software engineering from my past
                 experience in technology. My interest initially came from the
                 web developer that works for the tech startup company that I
                 worked for in College. I am most interested in React, and would
-                love to find a role that is heavily React dependant.
+                love to find a role that is heavily React/ Javascript dependant.
               </p>
               <h2 className="content is-medium">
                 <strong>Skills:</strong>
@@ -85,7 +85,7 @@ function About (){
                 <div className="level-item has-text-centered">
                   <div>
                     <a
-                      href="/resume/Andrew-Greer-Dev.pdf"
+                      href="./resume/Andrew-Greer-Resume-2020.pdf"
                       target="_blank"
                       rel="noopener noreferrer"
                       alt="resume"

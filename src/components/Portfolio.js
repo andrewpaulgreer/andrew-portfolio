@@ -26,7 +26,7 @@ function Portfolio (){
                     Let's Guess
                   </p>
                   <p className="subtitle 6">
-                  Let’s Guess is an online flash game rendition of the classic “Guess Who?” game. 
+                  Let’s Guess is an online browser game rendition of the classic “Guess Who?” game. 
                   </p>
                   <p className="subtitle 6">
                   Technologies: React, Bulma, HTML5, Javascript, react router, react context, MongoDB, Mongoose ORM,  Node.js, Passport, RESTful API’s.  
