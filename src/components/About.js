@@ -34,8 +34,7 @@ function About (){
               <h4 className="title is-3">A little bit about me:</h4>
               <p className="content is-medium">
                 Hi! My name is Andrew Greer, and I am a fullstack
-                Web Developver. I am a fullstack Web Developer, specializing in
-                the MERN stack.
+                Web Developver, specializing in the MERN stack.
               </p>
               <p className="content is-medium">
                 I became interested in the software engineering from my past
@@ -48,10 +47,10 @@ function About (){
                 <strong>Skills:</strong>
               </h2>
               <p className="content is-medium">
-              <strong>Front-end:</strong> HTML 5, CSS3, Javascript, React, jQuery, Ajax,RESTful API consumption / creation, handlebars.js, Bootstrap, Bulma.
+              <strong>Front-end:</strong> HTML 5, CSS3, Javascript, React, jQuery, Ajax, RESTful API creation/consumption, handlebars.js, Bootstrap, Bulma, Twilio, Twilio Flex, TwiML, Jest.
               </p>
               <p className="content is-medium">
-              <strong>Backend:</strong> Node.js, MySQL, Mongodb, MySQL Server, Mongoose, express, sequelize ORM, passport.js.
+              <strong>Backend:</strong> Node.js, MySQL, Mongodb, MySQL Server, express, sequelize ORM, Mongoose ORM, passport.js, Firebase.
               </p>
               <nav className="level">
                 <div className="level-item has-text-centered">

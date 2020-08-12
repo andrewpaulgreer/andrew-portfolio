@@ -17,7 +17,7 @@ function Portfolio (){
         <main className="section" id="portfolio">
         <div className="container">
           <div className="notification portfolio-background">
-            <p className="title has-text-centered has text-white">Portfolio</p>
+            <p className="title has-text-centered has-text-white">Portfolio</p>
             <hr />
             <section className="title columns">
               <div className="title column"data-aos="fade-right">
