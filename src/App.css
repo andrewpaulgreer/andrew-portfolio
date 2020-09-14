@@ -68,7 +68,7 @@ html, body {
 .button{
   text-decoration: none;
   position: relative;
-  background-color: #f39c12;
+  background-color: #67B5E2;
   border: none;
   width: 100%;
   -webkit-transition-duration: 0.4s; /* Safari */
@@ -121,9 +121,9 @@ html, body {
   height: 220px;
 } */
 .portfolio-background{
-  background-image: url("https://www.clker.com/cliparts/6/5/0/e/14263260541440893090pink%20orange%20yellow%20background%20wallpaper%20mixed%20combination-hi.png");
+  /* background-image: url("https://www.clker.com/cliparts/6/5/0/e/14263260541440893090pink%20orange%20yellow%20background%20wallpaper%20mixed%20combination-hi.png"); */
   background-repeat: no-repeat;
-  background-color: black; /* Used if the image is unavailable */
+  background-color: #17252D; /* Used if the image is unavailable */
   height: 100%; /* You must set a specified height */
   background-position: center; /* Center the image */
   background-repeat: no-repeat; /* Do not repeat the image */
@@ -204,7 +204,8 @@ html, body {
 }
 
 #contact {
-  background: url("https://miro.medium.com/max/4064/1*qYUvh-EtES8dtgKiBRiLsA.png") no-repeat;
+  background: url("https://www.globalsign.com/application/files/6915/8705/7357/iStock-1157006349.jpg") no-repeat;
+  /* background-color: #fff; */
   background-size: cover;
   margin-top: 0px;
   border-top: dashed;
@@ -231,5 +232,36 @@ footer {
 
 .box{
   
-  background-color: rgb(247, 231, 202);
+  background-color:#E4F5FF;
 }
+
+.disclaimer{
+  font-size: 12px;
+ 
+}
+
+#google-store{
+  color: 	#0F9D58;
+  background-color: #E4F5FF;
+  margin-left: 5%;
+  margin-bottom: 0;
+}
+
+#google-store:hover{
+  color: 	#E4F5FF;
+  background-color: #0F9D58;
+}
+
+#apple-store{
+ color: #78C5EF;
+ margin-right: 5%;
+ margin-bottom: 0;
+}
+#apple-store:hover{
+  color: 	#E4F5FF;
+  background-color: #78C5EF;
+ }
+
+ .input{
+   background-color: #EBF5FB;
+ }

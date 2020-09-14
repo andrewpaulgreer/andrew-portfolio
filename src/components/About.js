@@ -47,7 +47,7 @@ function About (){
                 <strong>Skills:</strong>
               </h2>
               <p className="content is-medium">
-              <strong>Front-end:</strong> HTML 5, CSS3, Javascript, React, jQuery, Ajax, RESTful API creation/consumption, handlebars.js, Bootstrap, Bulma, Twilio, Twilio Flex, TwiML, Jest.
+              <strong>Front-end:</strong> HTML 5, CSS3, Javascript, React, React Native, jQuery, Ajax, RESTful API creation/consumption, handlebars.js, Bootstrap, Bulma, Twilio, Twilio Flex, TwiML, Jest.
               </p>
               <p className="content is-medium">
               <strong>Backend:</strong> Node.js, MySQL, Mongodb, MySQL Server, express, sequelize ORM, Mongoose ORM, passport.js, Firebase.

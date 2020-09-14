@@ -36,7 +36,7 @@ export default class Contact extends React.Component {
         <div className="field">
           <label className="label">Name</label>
           <div className="control has-icons-left">
-            <input type="name" name="name" className="input" placeholder="Name" required />
+            <input type="name" name="name" className="input" placeholder="First Last" required />
             <span className="icon is-small is-left">
               <i className="fa fa-user"></i>
             </span>
@@ -49,7 +49,7 @@ export default class Contact extends React.Component {
               type="message"
               name="message"
               className="input is-large"
-              placeholder="message"
+              placeholder="Message"
               required
             />
           </div>
@@ -57,7 +57,7 @@ export default class Contact extends React.Component {
         {status === "SUCCESS" ? (
           <p>Thanks!</p>
         ) : (
-          <button className="button is-success" type="submit">
+          <button className="heading button is-large is-outlined is-rounded is-half is-success" type="submit">
             Submit
           </button>
         )}

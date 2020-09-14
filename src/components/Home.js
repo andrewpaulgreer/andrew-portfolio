@@ -21,7 +21,7 @@ function Home () {
                 <h1 className="title is-size-1 is-size-1-mobile has-text-centered has-text-left-mobile page-name">
                   Andrew Greer</h1>
                 <h1 className="is-size-1 is-size-1-mobile has-text-centered has-text-left-mobile page-skill">
-                  Web developer</h1>   
+                  Web Developer</h1>   
             </div>
         </div>
       </section>
