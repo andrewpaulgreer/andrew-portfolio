@@ -53,6 +53,8 @@ function Portfolio() {
                         </button>
                       </a>
                     </p>
+                    </div>
+                    <div className="level-item has-text-centered">
                     <p className="store-link is-4">
                       <a
                         href="https://play.google.com/store/apps/details?id=com.easyfish.esayfishlocalandroid&hl=en_US"
@@ -68,7 +70,7 @@ function Portfolio() {
                         </button>
                       </a>
                     </p>
-                  </div>
+                    </div>
                 </nav>
                 <p className="disclaimer">
                   Please contact for login credentials.
@@ -108,7 +110,7 @@ function Portfolio() {
                       type="button"
                       className="heading button is-large is-info is-outlined is-rounded"
                     >
-                      Click here for Repository
+                      Repo Link
                     </button>
                   </a>
                 </p>
@@ -150,7 +152,7 @@ function Portfolio() {
                       type="button"
                       className="heading button is-large is-info is-outlined is-rounded"
                     >
-                      Click here for Repository
+                      Repo Link
                     </button>
                   </a>
                 </p>
@@ -191,7 +193,7 @@ function Portfolio() {
                       type="button"
                       className="heading button is-large is-info is-outlined is-rounded"
                     >
-                      Click here for Repository
+                      Repo Link
                     </button>
                   </a>
                 </p>
@@ -232,7 +234,7 @@ function Portfolio() {
                       type="button"
                       className="heading button is-large is-info is-outlined is-rounded"
                     >
-                      Click here for Repository
+                      Repo Link
                     </button>
                   </a>
                 </p>
@@ -270,7 +272,7 @@ function Portfolio() {
                       type="button"
                       className="heading button is-large is-info is-outlined is-rounded"
                     >
-                      Click here for Repository
+                      Repo Link
                     </button>
                   </a>
                 </p>
