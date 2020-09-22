@@ -242,28 +242,27 @@ function Portfolio() {
             </div>
             <div className="title column" data-aos="fade-left">
               <article className="title is-child box">
-                <p className="title is-4 has-text-centered">Eat The Burger</p>
+                <p className="title is-4 has-text-centered">TypeScript-React Quiz</p>
                 <p className="subtitle 6">
-                  Eat the Burger is an application that allows a user to create
-                  their favorite burgers, and eat them!
+                 This is a trivia quiz using the opentdb.com API. This project was following a TypeScript
+                 tutorial, using the React.js Library, I have since added a scoreboard.
                 </p>
                 <p className="subtitle 6">
-                  Technologies: Javascript, node, HTML5, CSS3, bootstrap, mySQL,
-                  SQL server, express, and handlebars.
+                  Technologies: React, TypeScript, TSX, node, HTML5, CSS3, Webpack, JSON.
                 </p>
                 <a
-                  href="https://shielded-anchorage-70351.herokuapp.com/"
+                  href="https://andrewpaulgreer.github.io/typescript-react-quiz/"
                   className="text-white"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
                   <ObserverWrapper>
-                    <img src="./media/burger-app.jpeg" alt="burger-app" />
+                    <img src="./media/typescript.jpeg" alt="typescript-app" />
                   </ObserverWrapper>
                 </a>
                 <p className="repo-link">
                   <a
-                    href="https://github.com/andrewpaulgreer/burger-handlebars"
+                    href="https://github.com/andrewpaulgreer/typescript-react-quiz"
                     target="_blank"
                     rel="noopener noreferrer"
                     style={styles.underline}
