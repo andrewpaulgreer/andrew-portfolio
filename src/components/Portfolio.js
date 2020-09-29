@@ -205,27 +205,26 @@ function Portfolio() {
               <article className="title is-child box">
                 <p className="title is-4 has-text-centered">Day Planner</p>
                 <p className="subtitle 6">
-                  The Day planner, is a quick and easy way to plan out your day.
-                  The applicaiton is color coded based on the current hour.
+                  The SpaceX Flight Log is an easyway to check to see SpaceX's
+                  spacecraft launch records. 
                 </p>
                 <p className="subtitle 6">
-                  Technologies: Javascript, HTML5, CSS3, bootstrap, and local
-                  storage.
+                  Technologies: React, Javascript, HTML5, CSS3, bootstrap, GraphQL, Apollo.
                 </p>
                 <a
-                  href="https://andrewpaulgreer.github.io/jQuery-Day-Planner/"
+                  href="https://sheltered-tor-03736.herokuapp.com/"
                   className="text-white"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
                   <ObserverWrapper>
-                    <img src="./media/day-planner.jpeg" alt="day-planner" />
+                    <img src="./media/spacex.png" alt="spacex" />
                   </ObserverWrapper>
                 </a>
 
                 <p className="repo-link">
                   <a
-                    href="https://github.com/andrewpaulgreer/jQuery-Day-Planner"
+                    href="https://github.com/andrewpaulgreer/spacex-graphqlr"
                     target="_blank"
                     rel="noopener noreferrer"
                     style={styles.underline}

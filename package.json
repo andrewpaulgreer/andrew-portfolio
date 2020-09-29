@@ -39,5 +39,17 @@
   },
   "devDependencies": {
     "gh-pages": "^3.1.0"
+  },
+  "description": "## description This is my React.js portfolio, it utilizes lazy loading, and AOS npm packages in order to speed up the site a bit. This is my personalized site where you can find information about me, and where I have showcased my work.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrewpaulgreer/andrew-portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrewpaulgreer/andrew-portfolio/issues"
   }
 }
