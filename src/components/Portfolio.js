@@ -203,7 +203,7 @@ function Portfolio() {
           <section className="title columns">
             <div className="title column" data-aos="fade-right">
               <article className="title is-child box">
-                <p className="title is-4 has-text-centered">Day Planner</p>
+                <p className="title is-4 has-text-centered">SpaceX Flight Log</p>
                 <p className="subtitle 6">
                   The SpaceX Flight Log is an easyway to check to see SpaceX's
                   spacecraft launch records. 
