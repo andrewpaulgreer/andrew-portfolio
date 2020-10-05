@@ -25,7 +25,7 @@ function Portfolio() {
                 <p className="subtitle 6">
                   Easyfish Local is a mobile application used by service
                   industry workers to post images based on geotracking data to
-                  increase serch results.
+                  increase search results.
                 </p>
                 <p className="subtitle 6">
                   Technologies: React Native, Redux, CSS3, Google Firebase,
