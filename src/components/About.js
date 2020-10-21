@@ -47,10 +47,10 @@ function About (){
                 <strong>Skills:</strong>
               </h2>
               <p className="content is-medium">
-              <strong>Front-end:</strong> HTML 5, CSS3, Javascript, React, React Native, jQuery, Ajax, RESTful API creation/consumption, handlebars.js, Bootstrap, Bulma, Twilio, Twilio Flex, TwiML, Jest.
+              <strong>Front-end:</strong> HTML 5, CSS3, Javascript, TypeScript, React, React Native, jQuery, Ajax, RESTful API creation/consumption, handlebars.js, Bootstrap, Bulma, Twilio, Twilio Flex, TwiML, Jest.
               </p>
               <p className="content is-medium">
-              <strong>Backend:</strong> Node.js, MySQL, Mongodb, MySQL Server, express, sequelize ORM, Mongoose ORM, passport.js, Firebase.
+              <strong>Backend:</strong> Node.js, GrapghQL, Apollo, MySQL, Mongodb, MySQL Server, express, sequelize ORM, Mongoose ORM, passport.js, Firebase.
               </p>
               <nav className="level">
                 <div className="level-item has-text-centered">
@@ -84,7 +84,7 @@ function About (){
                 <div className="level-item has-text-centered">
                   <div>
                     <a
-                      href="./resume/Andrew-Greer-Resume-2020.pdf"
+                      href="./resume/AG-Dev-Resume.pdf"
                       target="_blank"
                       rel="noopener noreferrer"
                       alt="resume"
